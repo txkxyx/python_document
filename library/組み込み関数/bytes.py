@@ -1,0 +1,5 @@
+print(bytes(b'abc'))
+print(bytes('def','utf8'))
+print(bytes(10))
+print(bytes())
+print(type(bytes(10)))
